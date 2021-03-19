@@ -1,3 +1,5 @@
+<!-- Partie Footer -->
+
 </main>
 </body>
 

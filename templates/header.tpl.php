@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +11,26 @@
     <title>Sulivan Le Maitre - Développeur web Junior - Portfolio</title>
     <link rel="stylesheet" href="src/css/style.css">
 </head>
+
 <body>
     <main>
-    
-<!-- Partie Header -->
+
+        <!-- Partie Header -->
+
+        <header>
+
+            <nav>
+                <div class="navcontainer">
+                    <div class="navbar">
+                        <ul>
+                            <li><a href="#aboutme">A propos</a></li>
+                            <li><a href="#skills">Compétences</a></li>
+                            <li><a href="#works">Travaux</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </nav>
+
+        </header>
